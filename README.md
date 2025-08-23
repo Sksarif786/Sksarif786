@@ -24,5 +24,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sksarif786&show_icons=true)  
 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Sksarif786/contributions?format=svg&private=false)  
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sksarif786)  
 
